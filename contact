@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title></title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Bootstrap -->
+    <link href="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+  </head>
+  <body>
+    
+<head>
+<link rel="stylesheet" href='/static/navstyle.css'/>
+</head>
+<ul>
+  <li><a href="/">Home</a></li>
+  <li><a href="/about">About</a></li>
+  <li><a href="/projects">Projects</a></li>
+  <li><a href="/papers">Writing Samples</a></li>
+  <li><a href="/contact">Contact</a></li>
+</ul>
+
+    
+
+
+<body>
+<head>
+<link rel="stylesheet" href='/static/contact.css'/>
+<link href="https://fonts.googleapis.com/css?family=Cardo:400,700|Oswald" rel="stylesheet">
+</head>
+<div class="contactheader">
+    <center>
+    <div class="page-header">
+        <h1>CONTACT ME</h1><br>
+    </div>
+    </center>
+</div>
+</body>
+
+
+
+<head>
+<link rel="stylesheet" href='/static/contact.css'/>
+</head>
+<div class='contacttext'>
+    If you are interested in looking for a full-time entry-level data scientist, data analyst, economic consultant, or otherwise any role <i>where you believe I can <b>truly</b> make the best use of my combined skills and knowledge in Python, R, machine learning, econometrics, and more</i> come June 2020, I would love to chat!
+    <br><br>
+    Learn more about my experiences on LinkedIn below:
+    <br><br>
+    <center>
+        <b><font size='3'><i><a href='http://linkedin.com/in/stevene97'><u>CONNECT WITH ME ON LINKEDIN</u></a></i></font></b>
+    <br><br>
+    </center>
+        Feel free to reach out through e-mail:<br><br>
+    <center>
+        <b><i>COLLEGE E-MAIL</i></b> <u>steven_espinoza@college.harvard.edu</u><br><br>
+        <b><i>PERSONAL E-MAIL</i></b> <u>espinoza.steven1297@gmail.com</u>
+    </center>
+</div>
+
+
+
+
+
+
+
+    
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  </body>
+</html>

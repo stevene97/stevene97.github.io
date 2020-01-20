@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title></title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Bootstrap -->
+    <link href="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+  </head>
+  <body>
+    
+<head>
+<link rel="stylesheet" href='/static/navstyle.css'/>
+</head>
+<ul>
+  <li><a href="/">Home</a></li>
+  <li><a href="/about">About</a></li>
+  <li><a href="/projects">Projects</a></li>
+  <li><a href="/papers">Writing Samples</a></li>
+  <li><a href="/contact">Contact</a></li>
+</ul>
+
+    
+
+
+<body>
+<head>
+<link href="https://fonts.googleapis.com/css?family=Cardo:400,700|Oswald" rel="stylesheet">
+<link rel="stylesheet" href='/static/papers.css'/>
+</head>
+<div class="papersheader">
+    <center>
+    <div class="page-header">
+        <h1>WRITING SAMPLES</h1><br>
+    </div>
+    </center>
+</div>
+</body>
+
+
+
+<head>
+<link rel="stylesheet" href='/static/papers.css'/>
+</head>
+<div class='container'>
+    <div class='paper1'>
+        <img src='/static/paper1.png' class='image1' alt='paper 1' width='240' height='320'><br><br>
+        <i><u><a href="/static/An_Analysis_of_the_Relationship_Between_Eviction_Rates_and_Upward_Mobility_final (7).pdf" download>"An Analysis of the Relationship Between Eviction Rates and Upward Mobility"</a></u></i><br><br>
+        Written in May 2019 as part of "Empirical Research in Income Inequality," an independent research course, which uses a fixed-effects model to assess the causal relationship between eviction rates and upward intergenerational mobility.
+    </div>
+    <div class='paper2'>
+        <img src='/static/paper2.png' class='image2' alt='paper 2' width='240' height='320'><br><br>
+        <i><u><a href="/static/ec970_finalpaper.pdf" download>"Obesity, Food Deserts, and Minorities: A Case Study of Colorado"</a></u></i><br><br>
+        Written in April 2018 as part of "Big Data in Economics," my sophomore introduction to applied econometric techniques and big data concepts.
+    </div>
+    <div class='paper3'>
+        <img src='/static/paper3.png' class='image3' alt='paper 3' width='240' height='320'><br><br>
+        <i><u><a href="/static/empirical-project-2.pdf" download>"Measuring the Impact of Class Size on Student Outcomes"</a></u></i><br><br>
+        Empirical project as part of Professor Raj Chetty's "Using Big Data to Solve Economic Problems" in which the class replicated a popular 2017 paper that used a regression discontinuity design to estimate causal effect of class size on student outcomes. All the tables and figures produced solely in R (stargazer, rdd, etc.), and final .pdf output created with R Markdown.
+    </div>
+</div>
+
+
+
+
+    
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  </body>
+</html>

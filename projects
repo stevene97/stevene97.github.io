@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title></title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Bootstrap -->
+    <link href="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+  </head>
+  <body>
+    
+<head>
+<link rel="stylesheet" href='/static/navstyle.css'/>
+</head>
+<ul>
+  <li><a href="/">Home</a></li>
+  <li><a href="/about">About</a></li>
+  <li><a href="/projects">Projects</a></li>
+  <li><a href="/papers">Writing Samples</a></li>
+  <li><a href="/contact">Contact</a></li>
+</ul>
+
+    
+
+
+<body>
+<head>
+<link rel="stylesheet" href='/static/projects.css'/>
+<link href="https://fonts.googleapis.com/css?family=Cardo:400,700|Oswald" rel="stylesheet">
+</head>
+<div class="projectheader">
+    <center>
+    <div class="page-header">
+        <h1>PROJECTS</h1><br>
+    </div>
+    </center>
+</div>
+</body>
+
+
+
+<head>
+<link rel="stylesheet" href='/static/projects.css'/>
+</head>
+<div class='container'>
+    <div class='project1'>
+        <img src='/static/reddit_picture.png' class='image2' alt='paper 2' width='350' height='227'><br><br>
+        <i><u><a href="/static/reddit_data.html" download>Analyzing the 2020 Presidential Election on Reddit: Python/Plotly/PRAW</a></u></i><br><br>
+         This notebook serves as a brief summary of the types of tools I used during my last summer internship, and a few good ways to visualize the insights from Reddit data for a non-technical audience, and includes some interactive HTML functionality using Plotly. (Open HTML file within browser.)
+    </div>
+    <div class='project2'>
+        <img src='/static/cs109a_picture.png' class='cs109a_picture' alt='project3' width='350' height='227'><br><br>
+        <i><u><a href="https://sites.google.com/college.harvard.edu/cs109-2019-final-project-50/eda" target="_blank">Predicting Crime in Boston: Python/sklearn/Bokeh</a></u></i><br><br>
+        As part of a group final project in "CS109A: Introduction to Data Science," a graduate-level course, I created the website and made good use of Bokeh to visualize crimes across Boston (found in the "EDA" section). The link to the full project includes results and conclusions drawn from the machine learning models built in collaboration with other students from the course.
+    </div>
+    <div class='project3'>
+        <img src='/static/sanitary-violations-picture.png' class='sanitary-violations' alt='sanitary-violations' width='400' height='205'>
+        <br><br>
+        <i><u><a href="https://stevene97.shinyapps.io/Gov1005_Final_Project/" target="_blank">Sanitary Violations in Cambridge: R Shiny</a></u></i><br><br>
+        As part of "Gov 1005: Data," I used R Shiny in my final project where I used the City of Cambridge's open datasets on sanitary violations to map out violations in Harvard Square. The project was elected as a class favorite.
+    </div>
+    <div class='project4'>
+        <img src='/static/zillow-picture.png' class='zillow' alt='zillow' width='400' height='194'><br><br>
+        <i><u><a href="https://stevene97.shinyapps.io/Zillow_Data/" target="_blank">Data Story with Zillow Data: R Shiny</a></u></i><br><br>
+        Combining features of R Shiny and R Markdown to create an interactive data story with public Zillow data.
+    </div>
+    <div class='project5'>
+        <img src='/static/buenosaires-photo.png' class='buenosaires-photo' alt='photo_bsas' width='350' height='225'><br><br>
+        <i><u><a href="https://sites.google.com/view/gcbareclamos-mapas/home" target="_blank">Map of Buenos Aires Claims: Python</a></u></i><br><br>
+        In my first ever project with Python (Summer of 2018), I used Python's Folium package to visualize claims filed by residents in the city. The project was presented to city officials within the Ministry of Environment and Public Spaces.
+    </div>
+</div>
+
+
+
+
+    
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  </body>
+</html>

@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title></title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Bootstrap -->
+    <link href="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+  </head>
+  <body>
+    
+<head>
+<link rel="stylesheet" href='/static/navstyle.css'/>
+</head>
+<ul>
+  <li><a href="/">Home</a></li>
+  <li><a href="/about">About</a></li>
+  <li><a href="/projects">Projects</a></li>
+  <li><a href="/papers">Writing Samples</a></li>
+  <li><a href="/contact">Contact</a></li>
+</ul>
+
+    
+
+
+<body>
+<head>
+<link rel="stylesheet" href='/static/about.css'/>
+<link href="https://fonts.googleapis.com/css?family=Cardo:400,700|Oswald" rel="stylesheet">
+</head>
+<div class="aboutheader">
+    <center>
+    <div class="page-header">
+        <h1>ABOUT STEVEN</h1><br>
+    </div>
+    </center>
+</div>
+</body>
+
+
+
+<div class='container'>
+    <div class='aboutphoto'>
+        <img src="/static/aboutphoto2.jpeg" alt="About Me2" width="350" height="244">
+        <br><br>
+        <i>From my trip to San Francisco as part of the 2019 Hispanic <br>Scholarship Fund's STEM Summit.</i>
+        <br><br>
+        <img src="/static/aboutphoto.gif" alt="About Me" width="350" height="622">
+        <br><br>
+        <i>Photo taken when I interned in DC during the summer of 2019.</i>
+    </div>
+
+    <div class="abouttext">
+        <h2><i>Who am I?</i></h2>
+        <br>
+        <font size=3>
+        My name is Steven, and I was born and raised in Miami, Florida. I was born to two Nicaraguan immigrants fleeing civil war whom I am blessed to call my mom and dad. My parents taught me––as well as my older sister and twin brother––the core values of working hard, shooting for the stars, and believing in yourself, and to this day I live and breathe these values in everything I do.<br><br>
+            
+        I spent the first eighteen years of my life in Florida, attending a magnet high school in Downtown Miami called <a href="https://www.google.com/search?q=iprep+academy&oq=iprep+academy&aqs=chrome.0.0l5j69i60l3.3139j0j4&sourceid=chrome&ie=UTF-8"><u>iPrep Academy</u></a>, a sort of experimental and technology-focused high school where I graduated at the top of my class. I lived pretty much in total ignorance of how valuable the warmth and the sun genuinely are until I moved to Boston in the summer of 2016, when I began my undergraduate studies at Harvard University. Today, I am a senior with a concentration in economics, a secondary field in art history, and a certificate in Latin American studies.<br><br>
+            
+       My passion for data science grew in a truly organic fashion. It wasn't until I took econometrics my sophomore fall that I fell in love with the craft of exploring, modeling, and interpreting rich data, and it would take me another few semesters to teach myself––initially through online courses, and later through courses on campus––the trifecta of Python, R, and SQL. I remember first wanting to learn the tools because I loved <a href='https://iquantny.tumblr.com/tagged/parking'><u>Ben Wellington's blog post</u></a> about parking tickets in New York City (but really, it was the awesome map at the end), which was a topic of class discussion one day. I used his same spirit as a "citizen data scientist" when I worked for the Buenos Aires city government, where I spent eight weeks just playing with the data they had on city complaints and thinking about how to best interpret and visualize it. It was my first exposure to Python ever, and I loved it. Since then, I've become very proficient in the language, using it primarily for building machine learning models as well for creating sleek data visualizations (Bokeh is awesome.) Meanwhile, R is my preferred language for creating simpler data dashboards with Shiny and for building econometric models for causal inference. <br><br>
+            
+        Beyond my professional and academic interests, as a person I am a pretty casual and friendly guy. I love hanging out with my friends, going to concerts, exploring art museums, and reading books. I love architecture as well, and every now and then I'll spend a nice chunk of my day sketching buildings in the city. I especially love midcentury architecture and art deco. Music-wise, I love The Growlers, Cage the Elephant, and Tame Impala. Book-wise, I love White Noise by Don DeLillo, Consider the Lobster by David Foster Wallace, and On the Road by Jack Kerouac. I'm also left-handed.
+        </font>
+    </div>
+</div>
+
+
+
+
+    
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  </body>
+</html>

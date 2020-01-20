@@ -1,0 +1,45 @@
+h1 {
+  font-family: 'Oswald';
+}
+
+h3 {
+  font-size: 20px;
+  font-family: 'Oswald';
+}
+
+body {
+    background-color: black;
+}
+
+li{
+    font-family: 'Oswald'
+}
+
+.header {
+  background-image: url(background_header.gif);
+  background-repeat: no-repeat;
+  background-size: 1500px 500px;
+  padding: 50px;
+  text-align: center;
+  color: white;
+  font-size: 10px;
+}
+
+.homepage {
+  padding: 40px;
+  text-align: left;
+  font-style: roboto;
+  background: black;
+  color: white;
+  font-size: 16px;
+}
+
+.links {
+  padding-top: 0;
+  padding-bottom: 25px;
+  text-align: center;
+  font-style: roboto;
+  background: black;
+  color: white;
+  font-size: 20px;
+}
